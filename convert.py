@@ -7,3 +7,5 @@ def convertHoursToMinutes( hours ):
 
 def convertFeetToInches ( feet ):
 	return feet * 12
+
+Just making a change to test things.
